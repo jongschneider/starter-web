@@ -3,11 +3,11 @@
 
 # TEAM
 
-  Jonathan Schneider 
+  Jonathan Schneider
 
 # THANKS
 
-    <name>
+    Thanks to all my students
 
 # TECHNOLOGY COLOPHON
 
