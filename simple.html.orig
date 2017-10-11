@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <!--
 	Copyright Git.Training
+<<<<<<< HEAD
+	Silly changes
 -->
 <html>
 <head>
-	<title>A Great Website</title>
+	<title>A Silly Website</title>
+=======
+	These are changes from the feature branch bigtrouble.
+-->
+<html>
+<head>
+	<title>Lots of trouble</title>
+>>>>>>> fb adding some trouble to simple.html
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,18 +28,14 @@
 	<!-- Content Goes Here -->
 		<p>
 <<<<<<< HEAD
-			Very different text.
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; Blob 2014</p>
+			More silly changes to text.
 =======
-			Some dummy text
+			Just nothing but trouble.
+>>>>>>> fb adding some trouble to simple.html
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; Git Training 2014</p>
->>>>>>> realwork
 	</footer>
 </body>
 </html>
